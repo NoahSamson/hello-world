@@ -1,0 +1,5 @@
+Step 1 : Make changes so that you can commit something
+Step 2 : In Git Bash type "git add ." press enter
+Step 3 : In Git Bash type "git commit -m"<your message here>""press enter
+Step 4 : In Git Bash type "git push origin" press enter
+Step 5 : Go to your account and pull request to the repository
