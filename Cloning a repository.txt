@@ -1,0 +1,5 @@
+Step 1 : Fork the repository you are going to clone to your account
+Step 2 : Copy the link and move to the folder in your computer where you wish to save it
+Step 3 : Right click and select Git bash here
+Step 4 : type "git clone <link you copied>
+Step 5 : Make sure there is a folder of the repository you cloned 
