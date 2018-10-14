@@ -9,6 +9,8 @@ class Person {
 	public static void main(String[] args) {
 		Person person = new Person("Aadil");
 
+		System.out.println(person.getName());
+
 	}
 
 	public String getName() {
