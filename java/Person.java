@@ -1,6 +1,6 @@
 class Person {
-	String name;
-	int age;
+	private String name;
+	private int age;
 
 	public Person(String name, int age) {
 		super();
@@ -11,7 +11,7 @@ class Person {
 	public static void main(String[] args) {
 		Person person = new Person("Aadil", 20);
 
-		System.out.println("Name: " + person.getName() + "\n Age: " + person.getAge());
+		System.out.println("Name: " + person.getName() + "\nAge: " + person.getAge());
 
 	}
 
